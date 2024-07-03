@@ -47,10 +47,7 @@ function Home() {
   };
 
   const showResume = () => {
-    window.open(
-      "https://drive.google.com/file/d/1av6a5POlVcmua_cxW87f2qmRcWPBcU0o/view",
-      "_blank"
-    );
+    window.open("https://rajarajeswari10.github.io/MyResume/", "_blank");
   };
 
   return (
